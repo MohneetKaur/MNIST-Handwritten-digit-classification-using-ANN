@@ -1,5 +1,7 @@
 # MNIST-Handwritten-digit-classification-using-ANN
 
+Link for Web Application - https://mohneetkaur-mnist-handwritten-digit-classification-u-app-1cuo1r.streamlit.app/
+
 This project is a handwritten digit classification application using a deep learning model. It is built using TensorFlow and Keras, and it can accurately recognize handwritten digits from 0 to 9. The model is trained on the popular MNIST dataset, which consists of a large collection of labeled handwritten digit images.
 
 The application allows users to upload their own handwritten digit images and receive predictions on the digit represented in the image. It provides a user-friendly interface using Streamlit, a Python library for building interactive web applications. The uploaded image is preprocessed, resized, and normalized before being fed into the trained model for prediction.
